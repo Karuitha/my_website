@@ -1,0 +1,287 @@
+head:
+  title: "John Karuitha's Data Science Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m John Karuitha."
+  subtitle: "Data Scientist|Financial Economist"
+  description: "A Finance and research professional passionate about data analytics and the application of machine learning to Business, Economics and Finance. 
+  
+                I'm Proficient in Ms Excel, R, Python, SQL, Git, and GitHub. Besides, I have working knowledge of Bash, Docker, Stata and Eviews."
+  image:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+  imageMobile:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact John"
+    URL: "mailto:diakingathia2005@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/Karuitha"
+
+    - icon: "github"
+      URL: "https://github.com/Karuitha"
+
+    - icon: "twitter"
+      URL: "https://twitter.com/kingzz2005"
+
+    - icon: "dribbble"
+      URL: "https://dribbble.com"
+
+    - icon: "behance"
+      URL: "https://www.behance.net"
+
+    - icon: "youtube"
+      URL: "https://www.youtube.com/channel/UCyBQqAXz1aqXe0V-3iQ2KMA"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com"
+
+    - icon: "codepen"
+      URL: "#"
+
+    - icon: "yelp"
+      URL: "https://www.yelp.com/"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    <strong>Proficient researcher in financial economics providing data-driven, action-oriented solutions to business problems through data analysis and business research.  
+    </p>
+    <p class="lead">
+    <strong>My area of focus</strong> is applying data science to business and finance. 
+    I create value for companies by understanding the financial
+    cost of problems and delivering a return-on-investment with my solutions. 
+    I enjoy learning, working with stakeholders, and making better decisions with data.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/Karuitha"
+  image:
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "Over 20+ years of experience working with companies from all over the world in both academia and industry. I design & develop data science products to help businesses increase profitability and improve customer experience."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/Karuitha"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "#"
+
+  items:
+    - title: "Macroeconomic Statistician- Sovereign Debt"
+      company: "Trounceflow, Remote (London, UK)"
+      duration: "Feb 2022 - April 2022"
+      
+    - title: "Research associate"
+      company: "African Center for the Study of the United States of America, Johannesburg, South Africa"
+      duration: "Jan 2020 - Present"
+
+    - title: "Tutorial Fellow- Finance and Accounting"
+      company: "Karatina University, Karatina, Kenya"
+      duration: "Oct 2012 - Present"
+
+    - title: "Graduate Research Assistant"
+      company: "University of the Witwatersrand, Johannesburg, South Africa"
+      duration: "Feb 2017 - Dec 2021"
+      
+    - title: "Project Manager- Environment and Livelihoods Improvement"
+      company: "NECLI CBO, Kinamba, Kenya"
+      duration: "Oct 2009 - Dec 2010"
+      
+    - title: "Finance Officer"
+      company: "Twana Twitu Cares"
+      duration: "Jan 2008 - Sep 2009"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "University of the Witwatersrand, Johannesburg"
+      year: "2017-2022"
+      degree: "PhD in Financial Economics"
+      
+    - university: "HarvardX (Harvard University via EdX)"
+      year: "2020 - 2021"
+      degree: "Professional Certificate in Data Science"
+      
+    - university: "MITx (Massachusetts Institute of Technology on EdX)"
+      year: "2020"
+      degree: "15.071x: The Analytics Edge"
+      
+    - university: "DataCamp"
+      year: "2021"
+      degree: "Data Scientist with R"
+      
+    - university: "Egerton University"
+      year: "2004-2006"
+      degree: "Master of Business Administration in Finance"
+      
+    - university: "Egerton University"
+      year: "1997-2001"
+      degree: "Bachelor of Education, Arts (With Maths/Economics)"
+      
+    - university: "KASNEB"
+      year: "2008"
+      degree: "Certified Public Accountant of Kenya" 
+      
+    - university: "ISACA"
+      year: "2009"
+      degree: "Certified Information Systems Auditor" 
+      
+    - university: "Emory University"
+      year: "2021"
+      degree: "Reproducible Templates for Analysis and Dissemination"
+      
+    - university: "Udemy"
+      year: "2021"
+      degree: "The Linux Command Line Bootcamp: Beginner To Power User"  
+      
+      
+
+
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Sales Demand Forecast Application"
+      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
+      image:
+        x: "img/works/app_sales_demand_forecast.jpg"
+        _2x: "img/works/app_sales_demand_forecast.jpg"
+      is_even: true
+
+    - title: "Product Price Recommendation"
+      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+      image:
+        x: "img/works/app_cannondale_price_prediction.jpg"
+        _2x: "img/works/app_cannondale_price_prediction.jpg"
+      is_even: false
+
+    
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonials"
+  items:
+  
+    - name: "Justin Kurland, PhD"
+      position: "Lead Data Scientist, Northwestern Mutual"
+      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+      image:
+        x: "img/testimonials/justin.jpg"
+        _2x: "img/testimonials/justin.jpg"
+        
+    - name: "Chris Selig"
+      position: "Data Scientist"
+      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+      image:
+        x: "img/testimonials/chris.jpg"
+        _2x: "img/testimonials/chris.jpg"
+
+    
+
+    - name: "Mohana Krishna Chittoor"
+      position: "Lead Data Scientist, Money View"
+      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
+      image:
+        x: "img/testimonials/mohana.jpg"
+        _2x: "img/testimonials/mohana.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact John"
+    
+  image:
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'diakingathia2005@gmail.com'
+    
+  phone:
+    title: "Phone Number"
+    number: "Please email me on diakingathia2005@gmail.com"
+  email:
+    title: "Email"
+    email: '<a href="mailto:diakingathia2005@gmail.com">diakingathia2005@gmail.com</a>'
+  address:
+    title: "Address"
+    address: "Karatina University, School of Business, Karatina, Kenya"
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
